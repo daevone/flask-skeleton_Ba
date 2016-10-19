@@ -24,3 +24,4 @@ class Maso(CRUDModel):
             setattr(self, k, v)
 
 
+
